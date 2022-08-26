@@ -15,4 +15,4 @@ I'm a 1st Year PhD student in Machine Learning at Carnegie Mellon University. Be
 
 My research interests are in multimodal learning, generative models, deep learning, and optimization. 
 
-My hobbies are currently valorant.
+My hobbies is currently and forever valorant.
